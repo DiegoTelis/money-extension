@@ -4,6 +4,41 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtension_DT</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Diego Telis</Authors>
+    <Company>DTCorp</Company>
+    <PackageDescription>Extension to convert decimal to interger </PackageDescription>
+    <Description>Convert decimal to interger </Description>
+    <RepositoryUrl>https://github.com/DiegoTelis/money-extension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/DiegoTelis/money-extension</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;int;decimal;convert</PackageTags>
+    <Title>MoneyExtensions</Title>
+    <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
 </Project>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
